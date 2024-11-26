@@ -1,6 +1,6 @@
 {
-  repoName:"RoLLeRHub",
-  repoLogo: "./logo.txt"
-  description: "Описание репозитория",
-  indexURL: "https:/github.com/Ilya-Guyduk/RoLLeRHub/raw/main/index.json"
+  "repoName": "RoLLeRHub",
+  "repoLogo": "./logo.txt"
+  "description": "Описание репозитория",
+  "indexURL": "https:/github.com/Ilya-Guyduk/RoLLeRHub/raw/main/index.json"
 }
